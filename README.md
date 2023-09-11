@@ -13,7 +13,7 @@ Python Jupyter Notebook을 활용하여 서울시 공공 자전거 따릉이에 
 ## 개발 기간
 2022.09.01 ~ 2023.12.01 (3개월)
 
-## 🛠 기술 및 도구
+## 🛠 개발 환경
 
 <div style="display: flex">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -27,10 +27,6 @@ Python Jupyter Notebook을 활용하여 서울시 공공 자전거 따릉이에 
 - Nail: Python 프로그래밍
 - DarkHorse: Python 프로그래밍
 
-## 개발 환경
-- `Python`
-- `Jupyter Notebook`
-- `Anaconda`
 
 ## 시용 기술
 - Folium 라이브러리: Leaflet.js를 기반으로 한 파이썬 라이브러리로, 지도 시각화 및 지리 정보 시각화를 수행
