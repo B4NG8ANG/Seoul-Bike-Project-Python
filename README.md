@@ -13,9 +13,17 @@ Python Jupyter Notebook을 활용하여 서울시 공공 자전거 따릉이에 
 ## 개발 기간
 2022.09.01 ~ 2023.12.01 (3개월)
 
+## 🛠 기술 및 도구
+
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+</div>
+
 ## 개발 멤버
 - B4NG8ANG: 프로젝트 주제 선정 및 Python 프로그래밍
-- Goongam: Python 프로그래밍
+- Goongam: 따릉이 공공데이터 가공 및 분석 & 지도 표시
 - Nail: Python 프로그래밍
 - DarkHorse: Python 프로그래밍
 
