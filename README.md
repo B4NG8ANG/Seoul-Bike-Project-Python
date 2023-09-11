@@ -15,7 +15,7 @@ Python Jupyter Notebook을 활용하여 서울시 공공 자전거 따릉이에 
 
 ## 개발 멤버
 - B4NG8ANG: 프로젝트 주제 선정 및 Python 프로그래밍
-- Goongam: Python 프로그래밍
+- Goongam: 따릉이 공공데이터 가공 및 분석 & 지도 표시
 - Nail: Python 프로그래밍
 - DarkHorse: Python 프로그래밍
 
